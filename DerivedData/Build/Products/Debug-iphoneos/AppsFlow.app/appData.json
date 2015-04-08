@@ -1,0 +1,390 @@
+{
+  "id": "1718",
+  "id_user": "82",
+  "state": "1",
+  "nameApp": "Abogados",
+  "type": "personales",
+  "client": {
+    "name": "Nuñez",
+    "surname": "Suarez",
+    "resources": "#",
+    "create": "2014-04-16 16:52:52",
+    "update": "2014-04-16 16:52:52"
+  },
+  "theme": {
+    "code": "blue",
+    "url_images": "",
+    "home_img": "http://diana4love.com/AppsWorld/home",
+    "background": "#775728;#D0B36A;135",
+    "titlebar_background": "#D0B36A;#775728;135",
+    "menu_background": "#D0B36A;#775728;135",
+    "menu_item_background": "#AC9F74;#AC9F74;135",
+    "home_background": "#D0B36A;#775728;135",
+    "colors": "#E2CC81"
+  },
+  "menu": {
+    "id": "57",
+    "id_app": "1718",
+    "title": "Nuñez Suarez",
+    "subtitle": "a  b  o  g  a  d  o  s",
+    "icon": "http://www.icedesign.be/Download/Heezle_app_icon_large.png",
+    "gradient_orientation": "135",
+    "text_color": "#D0B36A",
+    "background": "#775728;#D0B36A;135",
+    "pages": [
+      {
+        "id": "106",
+        "id_menu": null,
+        "pos": "1",
+        "state": "1",
+        "title": "01",
+        "content": "QUIENES SOMOS?",
+        "type": {
+          "code": "image",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "photo_grid",
+        "data": [
+          {
+            "id": "165",
+            "content": "Constituido en 1989, el despacho NUÑEZ | GOMEZ abogados, multidiciplinar, y con vocación internacional, especializado en derecho bancario, financiero, y mercantil, y presta asesoramiento . ",
+            "content_img": "http://diana4love.com/AppsWorld/bufete",
+            "pos": "0",
+            "description": "",
+            "background": "#D0B36A;#775728;135",
+            "textColor": "#9A8856",
+            "tipo": "image",
+            "title": "BUFETE"
+          }
+        ]
+      },
+      {
+        "id": "102",
+        "id_menu": "tres",
+        "pos": "2",
+        "state": "1",
+        "title": "02",
+        "content": "PRODUCTOS",
+        "type": {
+          "code": "text",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "photo_text_gridlist",
+        "data": [
+          {
+            "id": "159",
+            "content": "Licenciado en leyes en la universidad de Madrid y nacido en Gijun, se especializo en derecho penal",
+            "content_img": "http://diana4love.com/AppsWorld/LAW_01.jpg",
+            "pos": "0",
+            "description": "",
+            "background": "#AD9B6B;#9A8856;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "Matias Nuñez",
+            "subtitle": "Abogado"
+          },
+          {
+            "id": "160",
+            "content": "Especializado en derecho laboral es nuestro abogado estrella, curso sus estudios en la Facultad de derecho de Barcelona y trabajo durante dos aÒos en el ayuntamiento de Girona.",
+            "content_img": "http://diana4love.com/AppsWorld/law2.jpg",
+            "pos": "1",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "text",
+            "title": "Mario Gomez",
+            "subtitle": "Escribano"
+          }
+        ]
+      },
+      {
+        "id": "106",
+        "id_menu": null,
+        "pos": "3",
+        "state": "1",
+        "title": "03",
+        "content": "POR QUE UNA APP?",
+        "type": {
+          "code": "image",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "photo_grid",
+        "data": [
+          {
+            "id": "165",
+            "content": "Es una rama del Derecho privado que regula el conjunto de normas relativas a los comerciantes en el ejercicio de su profesión, a los actos de comercio legalmente calificados como tales. ",
+            "content_img": "http://diana4love.com/AppsWorld/dermer",
+            "pos": "0",
+            "description": "",
+            "background": "#D0B36A;#775728;135",
+            "textColor": "#9A8856",
+            "tipo": "image",
+            "title": "ESPECIALISTAS EN"
+          }
+        ]
+      },
+      {
+        "id": "113",
+        "id_menu": "dos",
+        "pos": "4",
+        "state": "1",
+        "title": "04",
+        "content": "OTROS SERVICIOS",
+        "type": {
+          "code": "catalogo",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "catalogo",
+        "data": [
+          {
+            "id": "181",
+            "content": "En mis años de juventud cometí varios errores que me costaron algunos problemas con la justicia. ",
+            "content_img": "http://diana4love.com/AppsWorld/foto1",
+            "pos": "0",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "ANABEL SANZ (Bcn)",
+            "subtitle": "modelo"
+          },
+          {
+            "id": "182",
+            "content": "Hace un par de años tuve un accidente de coche por culpa de otro. Estuve dos meses de baja.",
+            "content_img": "http://diana4love.com/AppsWorld/fotito2",
+            "pos": "1",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "JOAN BUSTILLO (Bcn)",
+            "subtitle": "150.1"
+          },
+          {
+            "id": "184",
+            "content": "El año pasado mi ex marido y yo decidimos divorciarnos. Por suerte todo fue amistoso .",
+            "content_img": "http://diana4love.com/AppsWorld/fotito3",
+            "pos": "0",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "ISABEL URRUSOLO (girona)",
+            "subtitle": "13"
+          },
+          {
+            "id": "185",
+            "content": "Tengo un piso de propiedad en Mongatlo he alquilado a una pareja joven.",
+            "content_img": "http://diana4love.com/AppsWorld/foto4",
+            "pos": "1",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "JOSEP NOYA (BDN)",
+            "subtitle": "150.1"
+          }
+        ]
+      },
+      {
+        "id": "113",
+        "id_menu": "dos",
+        "pos": "5",
+        "state": "1",
+        "title": "05",
+        "content": "OPORTUNIDAD",
+        "type": {
+          "code": "catalogo",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "catalogo",
+        "data": [
+          {
+            "id": "181",
+            "content": "Elaboramos un presupuesto previo, para su tranquilidad. Proporcionamos una hoja. ",
+            "content_img": "http://diana4love.com/AppsWorld/s1",
+            "pos": "0",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "Presupuesto Previo",
+            "subtitle": "modelo"
+          },
+          {
+            "id": "182",
+            "content": "Adaptamos nuestro horario a sus necesidades. Concertamos visitasfuera de los horarios.",
+            "content_img": "http://diana4love.com/AppsWorld/s2",
+            "pos": "1",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "Nos Adaptamos",
+            "subtitle": "150.1"
+          },
+          {
+            "id": "184",
+            "content": "Dedicamos todo nuestro tiempo y esfuerzo en solucionar los problemas que se planteen. ",
+            "content_img": "http://diana4love.com/AppsWorld/s3",
+            "pos": "0",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "Soluciones",
+            "subtitle": "13"
+          },
+          {
+            "id": "185",
+            "content": "Ofrecemos facilidades de pago ya que entendemos que el dinero no debe ser un obstaculo.",
+            "content_img": "http://diana4love.com/AppsWorld/s4",
+            "pos": "1",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#ffffff",
+            "tipo": "text",
+            "title": "Facilidades de pago",
+            "subtitle": "150.1"
+          }
+        ]
+      },
+      {
+        "id": "109",
+        "id_menu": "cuatro",
+        "pos": "6",
+        "state": "1",
+        "title": "06",
+        "content": "REDES SOCIALES",
+        "type": {
+          "code": "redesSociales",
+          "background": "#775728;#D0B36A;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "redesSociales",
+        "data": [
+          {
+            "id": "168",
+            "content": "https://www.facebook.com/",
+            "content_img": "http://diana4love.com/AppsWorld/fb",
+            "pos": "0",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "facebook",
+            "title": ""
+          },
+          {
+            "id": "169",
+            "content": "https://twitter.com/",
+            "content_img": "http://diana4love.com/AppsWorld/twitter",
+            "pos": "1",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "twitter",
+            "title": ""
+          },
+          {
+            "id": "188",
+            "content": "https://plus.google.com/",
+            "content_img": "http://diana4love.com/AppsWorld/g+",
+            "pos": "3",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "gplus",
+            "title": ""
+          },
+          {
+            "id": "189",
+            "content": "http://instagram.com/",
+            "content_img": "http://diana4love.com/AppsWorld/instagram",
+            "pos": "4",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "instagram",
+            "title": ""
+          },
+          {
+            "id": "190",
+            "content": "https://www.pinterest.com/",
+            "content_img": "http://diana4love.com/AppsWorld/pinterest",
+            "pos": "5",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "pinterest",
+            "title": ""
+          },
+          {
+            "id": "191",
+            "content": "http://linkedin.com/",
+            "content_img": "http://diana4love.com/AppsWorld/linkedin",
+            "pos": "6",
+            "description": "",
+            "background": "",
+            "textColor": "",
+            "tipo": "linkedin",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "id_menu": "cinco",
+        "pos": "10",
+        "state": "1",
+        "title": 7,
+        "content": "CONTACTO",
+        "type": {
+          "code": "contacto",
+          "background": "#AD9B6B;#9A8856;135"
+        },
+        "url_icon": "http://www.ipadenclosures.com/php-oak/themes/global/admin_images/apps/Terillion-App-Icon_copy.png",
+        "layout": "contacto",
+        "data": [
+          {
+            "id": "178",
+            "content": "+34 93 456 789",
+            "content_img": "",
+            "pos": "0",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#362F1E",
+            "tipo": "telefono",
+            "title": "Telefóno"
+          },
+          {
+            "id": "179",
+            "content": "INFO@NUÑEZSUAREZ.COM",
+            "content_img": "",
+            "pos": "1",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#362F1E",
+            "tipo": "email",
+            "title": "Email"
+          },
+          {
+            "id": "180",
+            "content": "WWW.NUÑEZSUAREZ.COM",
+            "content_img": "",
+            "pos": "2",
+            "description": "",
+            "background": "#AC9F74;#AC9F74;135",
+            "textColor": "#362F1E",
+            "tipo": "web",
+            "title": "WebSite"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/portfolio/AWPAppDelegate.m \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/portfolio/AWPAppDelegate.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PF_Twitter.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFTwitterUtils.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFPush.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFPurchase.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFProduct.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFInstallation.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFRole.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFRelation.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFQuery.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFObject+Subclass.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFGeoPoint.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFFile.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFConfig.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFCloud.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFSubclassing.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFObject.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFUser.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFAnonymousUtils.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFConstants.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFAnalytics.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFNullability.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/PFACL.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Headers/Parse.h \
+  /Users/dianakarinaleon/Desktop/APPSWORLD/REPO/portfolio/Pods/Parse/Parse.framework/Modules/module.modulemap

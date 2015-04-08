@@ -1,0 +1,6 @@
+platform :ios, '6.0'
+pod 'AFNetworking', '~> 1.3.3'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'CGLMail', '~> 0.1'
+pod 'SKInnerShadowLayer', '~> 1.1'
+pod 'KMAccordionTableViewController', '~> 0.1'

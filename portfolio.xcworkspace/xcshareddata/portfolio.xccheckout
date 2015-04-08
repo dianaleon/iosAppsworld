@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>378CEFB2-BA9D-40CD-BE48-7F768D33A60F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>portfolio</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3537A151FD0137D28B843779A04D52D32A0A117B</key>
+		<string>https://bitbucket.org/guillermo_chiacchio/appsworld-portfolio.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>portfolio/portfolio.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3537A151FD0137D28B843779A04D52D32A0A117B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/guillermo_chiacchio/appsworld-portfolio.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3537A151FD0137D28B843779A04D52D32A0A117B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3537A151FD0137D28B843779A04D52D32A0A117B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>REPO</string>
+		</dict>
+	</array>
+</dict>
+</plist>
